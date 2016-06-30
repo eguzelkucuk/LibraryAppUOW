@@ -1,0 +1,4 @@
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Domain\bin\Debug\LibraryAppUOW.Domain.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Domain\bin\Debug\LibraryAppUOW.Domain.pdb
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Domain\obj\Debug\LibraryAppUOW.Domain.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Domain\obj\Debug\LibraryAppUOW.Domain.pdb

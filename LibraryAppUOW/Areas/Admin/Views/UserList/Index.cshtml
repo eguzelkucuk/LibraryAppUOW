@@ -1,0 +1,22 @@
+﻿@model LibraryAppUOW.Models.UserListVM.UserListVM
+@using LibraryAppUOW.Helpers
+@{
+    ViewBag.Title = "UserList";
+}
+<div class="jumbotron">
+    <div class="container">
+        <h1>MVC5 Unit of Work Example</h1>
+    </div>
+</div>
+<div class="container">
+    <h2>Products</h2>
+    @if (Model.Userlist.AnySafe())
+    {
+        <ul>
+            @foreach (var user in Model.Userlist)
+            {
+                <li>@user.Name</li>
+            }
+        </ul>
+    }
+</div>

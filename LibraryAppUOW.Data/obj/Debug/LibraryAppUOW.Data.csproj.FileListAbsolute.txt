@@ -1,0 +1,14 @@
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\obj\Debug\LibraryAppUOW.Data.csprojResolveAssemblyReference.cache
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\bin\Debug\LibraryAppUOW.Data.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\bin\Debug\LibraryAppUOW.Data.pdb
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\bin\Debug\FluentNHibernate.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\bin\Debug\LibraryAppUOW.Domain.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\bin\Debug\NHibernate.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\bin\Debug\LibraryAppUOW.Domain.pdb
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\bin\Debug\FluentNHibernate.pdb
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\bin\Debug\FluentNHibernate.xml
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\bin\Debug\Iesi.Collections.xml
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\bin\Debug\NHibernate.xml
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\obj\Debug\LibraryAppUOW.Data.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Data\obj\Debug\LibraryAppUOW.Data.pdb
