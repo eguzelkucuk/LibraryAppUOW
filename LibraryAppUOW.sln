@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAppUOW.Data", "Libra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAppUOW.Domain", "LibraryAppUOW.Domain\LibraryAppUOW.Domain.csproj", "{A0C7E0AC-B84D-476C-A735-1FB663432936}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAppUOW.WebAPI", "LibraryAppUOW.WebAPI\LibraryAppUOW.WebAPI.csproj", "{15864F9C-16D6-422B-A0D4-0CC88D42DC1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAppUOW.WebApi", "LibraryAppUOW.WebApi\LibraryAppUOW.WebApi.csproj", "{B9ECCF2A-0790-43D2-8154-6487CADF8E50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{A0C7E0AC-B84D-476C-A735-1FB663432936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0C7E0AC-B84D-476C-A735-1FB663432936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0C7E0AC-B84D-476C-A735-1FB663432936}.Release|Any CPU.Build.0 = Release|Any CPU
-		{15864F9C-16D6-422B-A0D4-0CC88D42DC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{15864F9C-16D6-422B-A0D4-0CC88D42DC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{15864F9C-16D6-422B-A0D4-0CC88D42DC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{15864F9C-16D6-422B-A0D4-0CC88D42DC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9ECCF2A-0790-43D2-8154-6487CADF8E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9ECCF2A-0790-43D2-8154-6487CADF8E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9ECCF2A-0790-43D2-8154-6487CADF8E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9ECCF2A-0790-43D2-8154-6487CADF8E50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

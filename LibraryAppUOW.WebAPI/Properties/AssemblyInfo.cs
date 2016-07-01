@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LibraryAppUOW.WebAPI")]
+[assembly: AssemblyTitle("LibraryAppUOW.WebApi")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("LibraryAppUOW.WebAPI")]
+[assembly: AssemblyProduct("LibraryAppUOW.WebApi")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("15864f9c-16d6-422b-a0d4-0cc88d42dc1b")]
+[assembly: Guid("b9eccf2a-0790-43d2-8154-6487cadf8e50")]
 
 // Version information for an assembly consists of the following four values:
 //

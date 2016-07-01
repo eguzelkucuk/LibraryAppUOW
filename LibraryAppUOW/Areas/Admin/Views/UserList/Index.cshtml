@@ -2,21 +2,64 @@
 @using LibraryAppUOW.Helpers
 @{
     ViewBag.Title = "UserList";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
 }
+
 <div class="jumbotron">
     <div class="container">
-        <h1>MVC5 Unit of Work Example</h1>
+        <h1>UserList</h1>
     </div>
 </div>
-<div class="container">
+<div class="container" ng-controller="UserLisController">
     <h2>Products</h2>
-    @if (Model.Userlist.AnySafe())
-    {
-        <ul>
-            @foreach (var user in Model.Userlist)
-            {
-                <li>@user.Name</li>
-            }
-        </ul>
-    }
+
+    @*@if (Model.Userlist.AnySafe())
+    { <table class="table table-bordered table-bordered">
+    <thead>
+        <tr>
+            <td>ID</td>
+            <td>Name</td>
+            <td>Email</td>
+            <td>Auth</td>
+            <td>RecordDate</td>
+            <td>İşlem</td>
+        </tr>
+    </thead>    
+   @foreach (var user in Model.Userlist)
+        {
+            <tr>
+                <td>@user.ID</td>
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+                <td>@user.Auth</td>
+                <td>@user.RecordDate</td>
+                <td>
+                    <button class="btn btn-xs btn-danger">Sil</button>
+                    <button class="btn btn-xs btn-primary">Güncelle</button>
+                </td>
+            </tr>
+        }
+    </table>
+    }*@
+
+
+    @*
+        Üstteki yöntemi kullanarak ve alttaki yöntemi kullanarak data çekebiliriz.
+        üstte model ile code behind data çekme işlemi yapıyoruz
+        aşağıdaki kod ile angularjs web api ile çekiyoruz.
+    *@
+
+
+    <table class="table table-hover" ng-repeat="user in userlist">
+            <tr>
+                <td>{{user.ID}}</td>
+                <td>{{user.Name}}</td>
+                <td>{{user.Email}}</td>
+                <td>{{user.Auth}}</td>
+                <td>{{user.RecordDate}}</td>
+            </tr>
+        </table> 
+
+
 </div>
+

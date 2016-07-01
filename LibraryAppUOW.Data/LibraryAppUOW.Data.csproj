@@ -54,6 +54,10 @@
   <ItemGroup>
     <Compile Include="Configuration\mappingConfiguration.cs" />
     <Compile Include="Configuration\UnitOfWork.cs" />
+    <Compile Include="MappingOverrides\BookCategoryOverrides.cs" />
+    <Compile Include="MappingOverrides\BookCatListOverrides.cs" />
+    <Compile Include="MappingOverrides\BookListOverrides.cs" />
+    <Compile Include="MappingOverrides\BookRequestListOverrides.cs" />
     <Compile Include="MappingOverrides\UserListOverrides.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\Repository.cs" />

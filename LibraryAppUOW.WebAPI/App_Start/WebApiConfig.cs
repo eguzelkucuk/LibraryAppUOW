@@ -1,9 +1,10 @@
-﻿using System;
+﻿using LibraryAppUOW.WebApi.Helper;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace LibraryAppUOW.WebAPI
+namespace LibraryAppUOW.WebApi
 {
     public static class WebApiConfig
     {
@@ -14,11 +15,12 @@ namespace LibraryAppUOW.WebAPI
             // Web API routes
             config.MapHttpAttributeRoutes();
 
-            config.Routes.MapHttpRoute(
-                name: "DefaultApi",
-                routeTemplate: "api/{controller}/{id}",
-                defaults: new { id = RouteParameter.Optional }
-            );
+         
+
+            config.Filters.Add(new UnitOfWorkActionFilter());
+
+            config.Formatters.Remove(config.Formatters.XmlFormatter);
+            config.Formatters.JsonFormatter.SupportedMediaTypes.Add(new System.Net.Http.Headers.MediaTypeHeaderValue("application/json"));
         }
     }
 }

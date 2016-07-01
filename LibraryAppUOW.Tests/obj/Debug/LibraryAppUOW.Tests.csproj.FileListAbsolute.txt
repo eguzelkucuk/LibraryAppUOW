@@ -48,3 +48,9 @@ C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Tests\bin\Debug\NH
 C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Tests\bin\Debug\FluentNHibernate.pdb
 C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Tests\bin\Debug\FluentNHibernate.xml
 C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Tests\bin\Debug\Iesi.Collections.xml
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW.Tests\bin\Debug\Newtonsoft.Json.xml

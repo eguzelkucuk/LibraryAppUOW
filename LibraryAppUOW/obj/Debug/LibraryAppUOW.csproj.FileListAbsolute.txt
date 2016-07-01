@@ -57,3 +57,16 @@ C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\NHibernate.xml
 C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\FluentNHibernate.pdb
 C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\FluentNHibernate.xml
 C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\Iesi.Collections.xml
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\Newtonsoft.Json.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\System.Net.Http.Formatting.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\System.Web.Http.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\System.Web.Http.WebHost.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\Newtonsoft.Json.xml
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\System.Net.Http.Formatting.xml
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\System.Web.Http.xml
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\System.Web.Http.WebHost.xml
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\System.Web.Cors.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\System.Web.Http.Cors.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\System.Web.Http.Cors.xml
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\LibraryAppUOW.WebApi.dll
+C:\Users\erkanguzzelkucuk\Desktop\LibraryAppUOW\LibraryAppUOW\bin\LibraryAppUOW.WebApi.pdb

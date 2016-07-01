@@ -25,8 +25,14 @@ namespace LibraryAppUOW.Data.Configuration
         {
             _sessionFactory = Fluently.Configure()
                 .Database(MsSqlConfiguration.MsSql2008.ConnectionString(x => x.FromConnectionStringWithKey("Library")))
-                .Mappings(x => x.AutoMappings.Add(
-                    AutoMap.AssemblyOf<UserList>(new mappingConfiguration()).UseOverridesFromAssemblyOf<UserListOverrides>()))
+                .Mappings(x =>
+                x.AutoMappings
+               .Add(AutoMap.AssemblyOf<UserList>(new mappingConfiguration()).UseOverridesFromAssemblyOf<UserListOverrides>())
+               .Add(AutoMap.AssemblyOf<BookRequestList>(new mappingConfiguration()).UseOverridesFromAssemblyOf<BookRequestListOverrides>())
+               .Add(AutoMap.AssemblyOf<BookList>(new mappingConfiguration()).UseOverridesFromAssemblyOf<BookListOverrides>())
+               .Add(AutoMap.AssemblyOf<BookCategory>(new mappingConfiguration()).UseOverridesFromAssemblyOf<BookCategoryOverrides>())
+                  .Add(AutoMap.AssemblyOf<BookCatList>(new mappingConfiguration()).UseOverridesFromAssemblyOf<BookCatListOverrides>())
+                    )
                 .ExposeConfiguration(config => new SchemaUpdate(config).Execute(true, true))
                 .BuildSessionFactory();
         }
